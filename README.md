@@ -1,4 +1,20 @@
-# TaskFlow — канбан-доски
+<div align="center">
+
+# TaskFlow
+
+**Канбан-приложение с drag & drop** · RU / EN
+
+<a href="https://cdduke.github.io/taskflow-kanban/"><img src="https://img.shields.io/badge/▶_Живое_демо-открыть-2ea44f?style=for-the-badge" alt="Live demo"></a>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square) ![dnd-kit](https://img.shields.io/badge/dnd-kit-4B5563?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Responsive](https://img.shields.io/badge/Адаптив-телефон_·_планшет_·_ПК-0ea5e9?style=flat-square)
+
+<img src="docs/preview-desktop.png" alt="TaskFlow — десктоп" width="73%">&nbsp;<img src="docs/preview-mobile.png" alt="TaskFlow — телефон" width="22%">
+
+*🇬🇧 Kanban app — drag & drop with mouse, touch and keyboard, task drawer with checklists, undo history, dark/light theme.*
+
+</div>
+
+---
 
 Веб-приложение для управления задачами в стиле Linear/Trello: несколько досок, перетаскивание карточек,
 чек-листы, метки, сроки, исполнители, тёмная и светлая темы. **Интерфейс на русском и английском.**
@@ -37,3 +53,6 @@ npm run build    # tsc + сборка
 ---
 
 *Portfolio project. Data is stored locally in your browser. Bilingual: Russian / English.*
+
+
+**Демо:** https://cdduke.github.io/taskflow-kanban/
